@@ -21,7 +21,6 @@ export ASSUME_ALWAYS_YES
 /usr/sbin/pkg bootstrap
 /usr/sbin/pkg update
 
-
 # Lock packages necessary
 /usr/sbin/pkg lock pkg
 /usr/sbin/pkg lock pfSense-2.4.5
